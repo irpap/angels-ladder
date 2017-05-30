@@ -50,7 +50,7 @@ github = "https://github.com/foobar"
 showsRSS = true
 profile = "/images/profile.png"
 copyright = "Written by Asuka Suzuki"
-analytics = "UA-XXXXXXXX-X"
+googleAnalytics = "UA-XXXXXXXX-X"
 shareThis = "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX"
 ```
 
@@ -69,7 +69,7 @@ Details of each parameter are as follows.
 | showsRSS | no | Enter true to show the URL of RSS. If you enter false or nothing, the link is hidden. |
 | profile | no | Enter the path to the profile image. If you do not enter, profile section will be hidden. |
 | copyright | no | Enter the copyright notice. If you do not enter, copyright display is hidden. |
-| analytics | no | Enter the tracking ID of Google analytics. If you do not enter, the analysis will be skipped. |
+| googleAnalytics | no | Enter the tracking ID of Google analytics. If you do not enter, the analysis will be skipped. |
 | shareThis | no | Enter the publisher key of ShareThis. If you do not enter, the ShareThis buttons are hidden. |
 
 
